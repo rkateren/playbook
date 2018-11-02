@@ -692,6 +692,7 @@ These are things like slide decks, user journeys and user needs. We start drafti
 ## Hosting and supporting services
 
 ### GovPress
+
 GovPress is dxw's hosting platform which hosts the WordPress websites we build for the public sector.
 
 We built GovPress because our clients were frequently asking us for secure, scalable and highly available hosting, but didn't have enough budget to be able to build an appropriate hosting platform for their service. This is fair enough, because they shouldn't have to. We built GovPress to meet this need, and it is now used by most of our clients.
@@ -727,11 +728,13 @@ and submit a ticket there. This is so that:
 For these reasons, we do not do any work on a client website or service unless we are working on a development sprint or on a relevant ticket. We think this is really important.
 
 #### Support sprints
+
 We work on tickets by having a developer on a support sprint. Developers are assigned to support for two weeks at a time and work on tickets for the duration of the sprint. If there is a ticket they need another developer to help with, this work is scheduled.
 
 #### Client experience (AKA: ticket principles)
 
 ##### Be responsive
+
 Clients expect us to deal with their issues promptly, but they understand that this isn't always possible. They are generally forgiving of the fact that we're sometimes busy, and they understand that some issues are complex and require long investigations.
 
 Clients expect us to deal with their issues promptly. But they understand that
@@ -745,6 +748,7 @@ keep clients informed of what we're doing, even if there hasn't been much
 progress.
 
 ##### Stick to your commitments
+
 It's really important that we do what we say we'll do, and don't promise things we can't deliver. If we're unable to deal with a ticket in good time and leave an update saying we'll work on it tomorrow, we must meet that commitment.
 
 It's really important that we do what we say we'll do, and don't promise things
@@ -756,6 +760,7 @@ Responsiveness is always the priority. So if for some reason we couldn't do what
 we said we'd do, we always respond to say so.
 
 ##### Make a good impression
+
 In tickets as in all things, we are mindful of dxw's [values](#values).
 
 Most clients' routine contact with us is via support tickets, so it's vital that our clients' experience of the support system is a good one, and also that they have a positive experience with us personally.
@@ -770,6 +775,7 @@ In general:
 * If we do become annoyed or frustrated by a ticket, we respond later or speak to a DM about reassigning it.
 
 ##### Don't over-deliver
+
 Of course, every client would like us to go the extra mile to solve their problem. But they also understand that to do that for them would mean bad service for another client, or that we never get to their issue, because we're too busy gold-plating the solution to someone else's.
 
 Of course, every client would like us to go the extra mile to solve their
@@ -789,6 +795,7 @@ that we can. Of several potential solutions that solve the problem, assuming
 none is a bad one, we do the one which can be implemented the most quickly.
 
 #### Workflow
+
 All tickets that arrive through the support helpdesk go through a number of stages in the course of being worked on.
 
 All tickets that arrive on the helpdesk go through a number of stages in the
@@ -867,7 +874,6 @@ names in good time is a good example of this kind of task.
 In these situations, we turn the ticket into a task and give it a due date, and then set it to On-hold. The helpdesk will automatically reopen the ticket ten days before its due date, and it'll show back up in your list of Open tickets.
 
 Only tasks with due dates should be made into On-hold tickets.
-
 
 #### Deciding what to work on
 
